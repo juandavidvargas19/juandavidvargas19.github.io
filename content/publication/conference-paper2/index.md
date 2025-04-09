@@ -57,7 +57,7 @@ url_poster: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](project2.jpg)'
+  caption: '[MAPLE](project2.jpg)'
   focal_point: ''
   preview_only: false
 
