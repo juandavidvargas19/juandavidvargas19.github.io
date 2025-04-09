@@ -333,6 +333,7 @@ awards:
     icon: award
     summary: |
       Ranked in the top 10 in the national selection phase prior to the International Mathematical Olympiad (IMO). Selected for an intensive 1-month mathematics boot camp in Bogotá, competing for 6 available places to represent Colombia at the IMO.
+---
 
 ## About Me
 
