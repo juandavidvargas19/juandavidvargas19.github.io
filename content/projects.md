@@ -29,6 +29,7 @@ sections:
       text: |
         [Degree project: Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
         - [Click here to open poster](https://www.canva.com/design/DAFQkuB92vo/f9VwUXOoP5CIxsBTcj79dg/view?utm_content=DAFQkuB92vo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+        - [Project folder with code](https://drive.google.com/drive/folders/1mjlZBEcwGirFmkWyuCtGjAJvY3tU_SCf?usp=sharing)
 
         ![Degree Project Poster](Poster_DegreeProject.png "")
 
@@ -36,6 +37,7 @@ sections:
 
         [Design's Architecture of a decision supporting software for buying/holding/selling stocks](https://drive.google.com/file/d/1emQXiozyWUQaeHPeLE8ydw4g53rW13Ng/view?usp=sharing)
         - [Click here to open poster](https://www.canva.com/design/DAFQk5TZRvc/V5uWD41XbIstw-RX9DAa9g/view?utm_content=DAFQk5TZRvc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+        - [Project folder with code](https://drive.google.com/drive/folders/1z_AQXtreZA6JAn1m_sOycwdNzCvRHKhc?usp=sharing)
 
         ![Architecture Poster](Poster_Architecture_ML_Software_StockMarket.png "")
 
