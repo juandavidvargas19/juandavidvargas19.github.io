@@ -1,13 +1,14 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
----
+title: MAPS, A Metacognitive Architecture for Improved Learning
+date: 2025-04-01
+external_link: https://drive.google.com/file/d/1Muyolvj6fD2IwnQXNde1kSpChpXFQja2/view?usp=sharing
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+---
+tags:
+  - Metacognition
+  - Reinforcement Learning
+  - Artificial Intelligence
+    
+Presented at the AAAI 2025 conference (TOM4AI workshop), and submitted to the Reinforcement Learning Conference (RLC) 2025. This study introduces the Metacognitive Architecture for Perceptual and Social Learning (MAPS), which integrates a second-order (metacognitive) network into AI systems to enhance social and continuous learning.
 
 <!--more-->
