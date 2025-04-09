@@ -42,7 +42,7 @@ url_poster: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](project3.jpg)'
+  caption: '[MAPS](project3.jpg)'
   focal_point: ''
   preview_only: false
 
