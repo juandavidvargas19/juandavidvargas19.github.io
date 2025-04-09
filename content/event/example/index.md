@@ -24,7 +24,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](featured.jpg)'
+  caption: 'Image credit: [**Unsplash**](germany_media.jpg)'
   focal_point: Right
 
 projects:
