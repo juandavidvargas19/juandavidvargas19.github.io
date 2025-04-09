@@ -1,11 +1,11 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Teaching asisstant for Calculus 1
+summary: Teaching assistant at Pontifificia Universidad Javeriana Cali
+date: 2018-08-01 to 2018-12-31
 type: docs
 math: false
 tags:
-  - Python
+  - Calculus 1
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
