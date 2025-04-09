@@ -66,35 +66,36 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
+  - block: markdown
     id: news
     content:
-      title: Recent News
+      title: Timeline
       subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      text: |
+        - **January 2023**. I became the Backoffice vice-president in AIESEC Cali, being in charge of Talent Acquisition management, and financial planning support.
+        - **December 2022**. I started to work at Procedata Internacional as a Control M administrator in Data Crédito - Experian (development of new flows, business software development, and control shells programming).
+        - **December 2022**. I finished the "Machine Learning" specialization at Coursera.
+        - **December 2022**. I finished the "AI in Healthcare" specialization at Coursera.
+        - **December 2022**. I finished the "Mathematics for Machine Learning" specialization at Coursera.
+        - **November 2022**. I finished the "Data Analysis for Business Decision Making" professional certificate at EdX.
+        - **November 2022**. I finished the "FinTech: Foundations and Applications of Financial Technology" specialization at Coursera.
+        - **November 2022**. I finished the "MLOps1 (Azure): Deploying AI and ML Models using Microsoft Azure Machine Learning" course at EdX.
+        - **November 2022**. I finished the "Object Oriented Programming in Java" course at Coursera.
+        - **October 2022**. I enrolled in the "Online Diploma in Neural Networks and Deep Learning" course at UAO University.
+        - **September 2022**. I finished the "Stock Market Self-Regulator Exam Preparation" course at BVC Online.
+        - **September 2022**. I started the "Design's Architecture of a Decision Supporting Software for Buying/Holding/Selling Stocks" project.
+        - **August 2022**. I finished the "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods" project.
+        - **June - July 2022**. I volunteered at CEFAMM, Quito.
+        - **June 2022**. I finished the "Diploma in Stock Market" course at BVC Online.
+        - **April 2022**. I finished the "Machine Learning with Python: A Practical Introduction" course at EdX.
+        - **February 2022**. I started the "Comparison of Machine Learning Methods Applied to..." project.
+        - **2017**. I won **1st place** in the **National Mathematics Competition** (ORM).
+        - **2017**. I was awarded a **Half Tuition Scholarship** from **Javeriana University** (2017-2021).
+        - **2017**. I was **selected for a 1-month National Math Boot Camp** by **OCM**.
+        - **December 2021 - January 2022**. I volunteered at **SERART**, Guadalajara.
+        - **April - August 2021**. I worked at **Bosch in Schwieberdingen, Germany**, as an intern in **Knowledge Management for Semi-Autonomous Driving**.
+        - **October 2020 - March 2021**. I studied at **Otto-von-Guericke-Universität Magdeburg** as an exchange student as part of the **KOSPIE scholarship**.
+  
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
