@@ -50,4 +50,4 @@ sections:
 
         ![Vital Signs Poster](https://raw.githubusercontent.com/juandavidvargas19/juandavidvargas19.github.io/main/images/Poster_VitalSigns.png)
 
-        ---
+---
