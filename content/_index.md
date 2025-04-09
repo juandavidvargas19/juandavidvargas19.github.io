@@ -36,7 +36,6 @@ sections:
       subtitle: ''
       text: |-
         I am a colombian engineer and computer scientist. I believe in the potential of AI, thus I do research on AI architectures for prosocial, competitive and cooperative environments. Additionally, I have done personal projects studying large language models behaviour, as well as I have used large language models for creating specific applications. This research helps me stay tunned with state of the art AI methods, as well as helps gives me insight into AI's potentional for complex tasks, and its possible future impact on society.  
-
     On the other hand, I am passionate about finance, investment, and economics. In my free time, I enjoy attending to international events targeted to people with long term vision or people knowledgable about global economics, for example the Berkshire hathaway annual shareholders meeting. I believe globalization brings benefits outweighting possible weaknesses, thus I focus on learning about developed and developing markets and I am continously learning about different kinds of capital markets.
 
     Please reach out to me if your interests resonate with this 😃
