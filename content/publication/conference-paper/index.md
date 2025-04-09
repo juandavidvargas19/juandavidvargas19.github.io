@@ -1,7 +1,5 @@
 ---
-title: 'MAPS- A Metacognitive Architecture for Improved
-Perceptual and Social Learning: from simple tasks to
-multi-agent reinforcement learning'
+title: 'MAPS- A Metacognitive Architecture for Improved Perceptual and Social Learning: from simple tasks to multi-agent reinforcement learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
