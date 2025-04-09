@@ -79,7 +79,7 @@ sections:
         - **July 2024**. I was co-author of the neuromatch-neuro AI course 2024.
         - **June 2024**. I was research assistant during summer (in addition to my research work) leading the efforts to submit a computational resources grant to the Digital Research Alliance of Canada.
         - **June 2024**. I was awarded an entrepeneurship grant by Mila Quebec AI Institute for my development of a financial chatbot.
-        - **March 2025**. I presented MAPS at the Canadian AI 2024 conference.
+        - **May 2024**. I presented MAPS at the Canadian AI 2024 conference.
         - **May 2024**. I was awarded an travel grant by Mila Quebec AI Institute to present a poster in the Canadian AI 2024.
         - **April 2024**. I was awarded an international fellowship by DIRO (Département d'informatique et de recherche opérationnelle).
         - **February 2024**. I was awarded an AI Research scholarship by DIRO (Département d'informatique et de recherche opérationnelle).
