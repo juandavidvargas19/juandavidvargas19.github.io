@@ -21,7 +21,7 @@ sections:
       fill_image: false
       columns: 3
 
-  - block: markdown
+  - block: collection
     content:
       title: Other Projects
       text: |
