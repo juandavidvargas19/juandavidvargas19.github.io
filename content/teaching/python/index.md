@@ -1,11 +1,11 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: Teaching asisstant for introduction to programming
+summary: Teaching assistant at Pontifificia Universidad Javeriana Cali
+date: 2019-08-01 to 2019-12-31
 type: docs
 math: false
 tags:
-  - Python
+  - Programming
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
