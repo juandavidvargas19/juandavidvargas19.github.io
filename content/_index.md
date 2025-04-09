@@ -72,8 +72,24 @@ sections:
       title: Timeline
       subtitle: ''
       text: |
+        - **March 2025**. The PPSP Lab increased its RGU allocation from 1 to 65 RGU years, which is closely equivalent to a market value of CAD $220,000 using the metrics of H100 80 GB GPUS of DRAC. This was in part the result of my work to compile and submit the resources grant during the summer of 2024. 
+        - **March 2025**. I presented MAPS at the TOM4AI workshop in AAAI 2025.
+        - **February 2025**. I was awarded a travel grant by UNIQUE to do a presentation in the AAAI 2025 conference.
+        - **December 2024**. I was awarded a redaction scholarship by DIRO (Département d'informatique et de recherche opérationnelle).
+        - **July 2024**. I was co-author of the neuromatch-neuro AI course 2024.
+        - **June 2024**. I was research assistant during summer (in addition to my research work) leading the efforts to submit a computational resources grant to the Digital Research Alliance of Canada.
+        - **June 2024**. I was awarded an entrepeneurship grant by Mila Quebec AI Institute for my development of a financial chatbot.
+        - **March 2025**. I presented MAPS at the Canadian AI 2024 conference.
+        - **May 2024**. I was awarded an travel grant by Mila Quebec AI Institute to present a poster in the Canadian AI 2024.
+        - **April 2024**. I was awarded an international fellowship by DIRO (Département d'informatique et de recherche opérationnelle).
+        - **February 2024**. I was awarded an AI Research scholarship by DIRO (Département d'informatique et de recherche opérationnelle).
+        - **December 2023**. I was awarded an international fellowship by DIRO (Département d'informatique et de recherche opérationnelle).
+        - **December 2023**. We presented MAPLE during NeurIPS 2023 – Meltingpot Challenge Workshop.
+        - **October 2023**. We presented MAPLE during the Workshop of Advances in Neuro AI 2023.
+        - **July 2023**. I was accepted into UdeM to the AI MSc with Mila Quebec Institute. I was awarded an exemption scholarship, and a monthly stipend for the duration of my studies by the PPSP Laboratory.
         - **January 2023**. I became the Backoffice vice-president in AIESEC Cali, being in charge of Talent Acquisition management, and financial planning support.
         - **December 2022**. I started to work at Procedata Internacional as a Control M administrator in Data Crédito - Experian (development of new flows, business software development, and control shells programming).
+        - **December 2022**. I was awarded an honor mention in the OMUS 2022 (university level math olympiads of southwestern Colombia).
         - **December 2022**. I finished the "Machine Learning" specialization at Coursera.
         - **December 2022**. I finished the "AI in Healthcare" specialization at Coursera.
         - **December 2022**. I finished the "Mathematics for Machine Learning" specialization at Coursera.
@@ -81,20 +97,18 @@ sections:
         - **November 2022**. I finished the "FinTech: Foundations and Applications of Financial Technology" specialization at Coursera.
         - **November 2022**. I finished the "MLOps1 (Azure): Deploying AI and ML Models using Microsoft Azure Machine Learning" course at EdX.
         - **November 2022**. I finished the "Object Oriented Programming in Java" course at Coursera.
-        - **October 2022**. I enrolled in the "Online Diploma in Neural Networks and Deep Learning" course at UAO University.
         - **September 2022**. I finished the "Stock Market Self-Regulator Exam Preparation" course at BVC Online.
-        - **September 2022**. I started the "Design's Architecture of a Decision Supporting Software for Buying/Holding/Selling Stocks" project.
-        - **August 2022**. I finished the "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods" project.
+        - **August 2022**. I finished my BSc project "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods".
         - **June - July 2022**. I volunteered at CEFAMM, Quito.
         - **June 2022**. I finished the "Diploma in Stock Market" course at BVC Online.
         - **April 2022**. I finished the "Machine Learning with Python: A Practical Introduction" course at EdX.
-        - **February 2022**. I started the "Comparison of Machine Learning Methods Applied to..." project.
-        - **2017**. I won **1st place** in the **National Mathematics Competition** (ORM).
-        - **2017**. I was awarded a **Half Tuition Scholarship** from **Javeriana University** (2017-2021).
-        - **2017**. I was **selected for a 1-month National Math Boot Camp** by **OCM**.
         - **December 2021 - January 2022**. I volunteered at **SERART**, Guadalajara.
         - **April - August 2021**. I worked at **Bosch in Schwieberdingen, Germany**, as an intern in **Knowledge Management for Semi-Autonomous Driving**.
         - **October 2020 - March 2021**. I studied at **Otto-von-Guericke-Universität Magdeburg** as an exchange student as part of the **KOSPIE scholarship**.
+        - **November 2017**. I won **1st place** in the **National Mathematics Competition** (ORM).
+        - **August 2017**. I was awarded a **Half Tuition Scholarship** from **Javeriana University** (2017-2021).
+        - **June 2017**. I was **selected for a 1-month National Math Boot Camp** by **OCM**.
+
   
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
