@@ -50,7 +50,7 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1aEcKU-kzjo8WxM_sjoJr9HGxAzQRVw4g/view?usp=sharing'
 url_code: ''
 url_poster: ''
 
