@@ -57,7 +57,7 @@ education:
       Thesis on Metacognitive Architecture for Perceptual and Social Systems, a Neuro-inspired Metacognition Approach. Supervised by [Prof Guillaume Dumas](https://www.extrospection.eu/). Presented papers at Canadian AI 2024 and AAAI 2025.
     button:
       text: 'Read Thesis'
-      url: ' https://drive.google.com/drive/folders/1pjLuP49IZUJM00SsMrJs7sx-EzHZZbLo?usp=sharing'
+      url: https://drive.google.com/drive/folders/1pjLuP49IZUJM00SsMrJs7sx-EzHZZbLo?usp=sharing
   
   - area: BSc Electronics engineering
     institution: Pontificia Universidad Javeriana
@@ -236,35 +236,104 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Travel Grant
+    date: '2025-02-01'
+    awarder: UNIQUE
+    icon: plane
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Grants to support travel to present research papers at AAAI 2025.
+  
+  - title: Redaction Scholarship
+    date: '2024-12-01'
+    awarder: DIRO
+    icon: edit
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Scholarship awarded to support academic writing and publication of research papers.
+  
+  - title: International Fellowships (2)
+    date: '2024-04-01'
+    awarder: DIRO
+    icon: globe
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+      Two international fellowships awarded to support graduate studies and research at Université de Montréal.
+  
+  - title: AI Scholarship
+    date: '2024-03-01'
+    awarder: DIRO (Département d'Informatique et de Recherche Opérationnelle)
+    icon: university
+    summary: |
+      Merit-based scholarship awarded to support research in artificial intelligence at Université de Montréal.
+  
+  - title: Travel Grant
+    date: '2024-05-01'
+    awarder: Mila
+    icon: plane
+    summary: |
+      Grants to support travel to present research papers at Canadian AI 2024.
+  
+  - title: Colfuturo Scholarship
+    date: '2023-09-01'
+    awarder: Colfuturo
+    icon: scholarship
+    summary: |
+      Prestigious scholarship worth CAD $75,000 to pursue graduate studies in Computer Science with AI Research focus at Université de Montréal.
+  
+  - title: Exemption Scholarship
+    date: '2023-09-01'
+    awarder: DIRO
+    icon: university
+    summary: |
+      Tuition exemption scholarship for graduate studies at Université de Montréal.
+  
+  - title: Honor Mention in Regional Math Competition
+    date: '2022-07-01'
+    awarder: OMUS
+    icon: certificate
+    summary: |
+      Recognition for outstanding performance in the regional mathematics competition.
+  
+  - title: KOSPIE Scholarship
+    date: '2020-07-01'
+    awarder: DAAD (German Academic Exchange Service)
+    icon: germany
+    summary: |
+      Competitive scholarship worth CAD $40,000 awarded to only 50 engineering students in Colombia annually. The scholarship covered:
+      - A 1-year German language course in Colombia
+      - A 2-month intensive German course (B2) in Germany
+      - An academic semester at Otto-von-Guericke-Universität Magdeburg (achieved 90% GPA)
+      - An internship semester at Robert Bosch GmbH in Germany
+      All expenses were covered including travel, accommodation, and living costs.
+  
+  - title: First Place in National Mathematics Competition
+    date: '2017-10-01'
+    awarder: Universidad del Valle (ORM)
+    icon: medal
+    summary: |
+      First place in the 11th Regional Mathematics Competition (ORM) that has nationwide participation. Competed in the advanced level (10th and 11th grade) against students from across Colombia.
+  
+  - title: Half Tuition Scholarship
+    date: '2017-08-01'
+    awarder: Pontificia Universidad Javeriana
+    icon: university
+    summary: |
+      Merit-based scholarship covering half of tuition costs for undergraduate studies in Electronics Engineering from 2017 to 2021.
+  
+  - title: Excellence Honor Mention
+    date: '2017-07-01'
+    awarder: Colegio San Antonio María Claret
+    icon: star
+    summary: |
+      Excellence honor mention awarded to students with at least 8 out of 14 classes with a grade of 92% or higher, with no class grade lower than 80%. Recognition given for academic excellence throughout the entire academic year.
+  
+  - title: Top 10 in Colombian Mathematics Olympiad
+    date: '2017-06-01'
+    awarder: Universidad Antonio Nariño (OCM)
+    icon: award
+    summary: |
+      Ranked in the top 10 in the national selection phase prior to the International Mathematical Olympiad (IMO). Selected for an intensive 1-month mathematics boot camp in Bogotá, competing for 6 available places to represent Colombia at the IMO.
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
+David Mazuera is a proactive electronic engineer and computer scientist, with a strong foundation in math, AI, and fintech. He has multifaceted experience: working as a researcher designing AI architectures for prosocial settings, managing business systems in the leading credit bureau in Colombia, and working in independent fintech projects. He enjoys working in multi-skilled teams that allow him to learn from his peers and stimulate his ideas. 
