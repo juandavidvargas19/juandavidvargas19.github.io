@@ -34,12 +34,12 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |
-    I am a Colombian engineer and computer scientist. I believe in the potential of AI, thus I do research on AI architectures for prosocial, competitive, and cooperative environments. Additionally, I have done personal projects studying large language models' behavior, as well as using large language models for creating specific applications. This research helps me stay tuned with state-of-the-art AI methods, as well as gives me insight into AI's potential for complex tasks, and its possible future impact on society.
+      text: |-
+              I am a Colombian engineer and computer scientist. I believe in the potential of AI, thus I do research on AI architectures for prosocial, competitive, and cooperative environments. Additionally, I have done personal projects studying large language models' behavior, as well as using large language models for creating specific applications. This research helps me stay tuned with state-of-the-art AI methods, as well as gives me insight into AI's potential for complex tasks, and its possible future impact on society.
 
-    On the other hand, I am passionate about finance, investment, and economics. In my free time, I enjoy attending international events targeted to people with long-term vision or people knowledgeable about global economics, such as the Berkshire Hathaway annual shareholders meeting. I believe globalization brings benefits outweighing possible weaknesses, thus I focus on learning about developed and developing markets and am continuously learning about different kinds of capital markets.
+              On the other hand, I am passionate about finance, investment, and economics. In my free time, I enjoy attending international events targeted to people with long-term vision or people knowledgeable about global economics, such as the Berkshire Hathaway annual shareholders meeting. I believe globalization brings benefits outweighing possible weaknesses, thus I focus on learning about developed and developing markets and am continuously learning about different kinds of capital markets.
 
-    Please reach out to me if your interests resonate with this 😃
+              Please reach out to me if your interests resonate with this 😃
       
     design:
       columns: '1'
