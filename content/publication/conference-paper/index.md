@@ -35,7 +35,7 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1Muyolvj6fD2IwnQXNde1kSpChpXFQja2/view?usp=sharing'
 url_code: ''
 url_poster: ''
 
