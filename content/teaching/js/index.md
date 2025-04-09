@@ -1,11 +1,11 @@
 ---
-title: Learn JavaScript
-summary: Easily learn JavaScript in 10 minutes!
-date: 2023-10-24
+title: Private tutor
+summary: Independent tutor in math, calculus, programming, statistics, and financial engineering 
+date: 2018-01-01 to 2020-07-30
 type: docs
 math: false
 tags:
-  - JavaScript
+  - Private tutor
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
