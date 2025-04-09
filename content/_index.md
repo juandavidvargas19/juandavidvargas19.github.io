@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Work'
       subtitle: ''
       text: |-
               I am a Colombian engineer and computer scientist. I believe in the potential of AI, thus I do research on AI architectures for prosocial, competitive, and cooperative environments. Additionally, I have done personal projects studying large language models' behavior, as well as using large language models for creating specific applications. This research helps me stay tuned with state-of-the-art AI methods, as well as gives me insight into AI's potential for complex tasks, and its possible future impact on society.
