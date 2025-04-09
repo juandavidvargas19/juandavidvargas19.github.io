@@ -6,9 +6,9 @@ event_url: https://ciencias.univalle.edu.co/noticias-y-actualidad/noticias/item/
 
 location: Pontificia Universidad Javeriana Cali
 
-summary: I achieved an honor mention in the University Mathematics Olympiad of Southwestern Colombia.
+summary: I achieved an honor mention in the university level Mathematics Olympiads of Southwestern Colombia.
 
-abstract: 'I achieved an honor mention in the University Mathematics Olympiad of Southwestern Colombia.'
+abstract: 'I achieved an honor mention in the university level Mathematics Olympiads of Southwestern Colombia.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
