@@ -52,7 +52,5 @@ sections:
         <img src="images/Poster_Fitness.png?raw=true"/>
     
     design:
-      view: article-grid
-      fill_image: false
       columns: 1
 ---
