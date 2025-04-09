@@ -25,9 +25,8 @@ sections:
     content:
       title: Other Projects
       text: |
-        ### University Projects. Summarized Posters.
 
-        [Degree project: Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
+        [BSc degree project: Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods](https://drive.google.com/file/d/1HwM-nndI3PmbBNZRBjc0OxugWNdrR2rN/view?usp=sharing)
         ENGLISH COMMENTED CODE AVAILABLE (Go to "Projects' Documents" below)
         - [Click here to open poster](https://www.canva.com/design/DAFQkuB92vo/f9VwUXOoP5CIxsBTcj79dg/view?utm_content=DAFQkuB92vo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
