@@ -1,71 +1,55 @@
 ---
-title: "An example preprint / working paper"
+title: 'MAPLE: Modular Attention for Interpretable and
+Prosocial Multi-Agent Reinforcement Learning'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+  - Zahra Sheikhbahaee
+  - Chang Su
+  - Aniket Rajiv Didolkar
+  - admin
+  - Manoosh Samiei
+  - Leonardo Christov-Moore
+  - Nicco Reggente
+  - Dianbo Liu
+  - Irina Rish
+  - Guillaume Dumas
+
+date: '2025-03-01'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: Submitted to RLC 2025
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 'We propose a novel approach to enhance interpretability and performance in multi-agent reinforcement learning (MARL) through modular architecture and representation learning. We introduce MAPLE (Modular Attention for Prosocial Learning), a MARL architecture built on Independent Proximal Policy Optimization (IPPO) with brain-inspired modular processing that mirrors the functional specialization observed in human neural systems. We incorporate a pre-trained slot attention model to learn compositional, object-centric representations, along with modular recurrent networks which interact through an attention bottleneck, consistently outperforming end-to-end RL across different environments. Our architecture incorporates three key mechanisms to address challenges in complex social scenarios: (1) learning orthogonal latent representations and directing them through modular recurrent neural networks, allowing different modules to specialize in processing distinct environmental features, (2) enabling generalization via compositional consistency loss for slot attention modules, and (3) using different fine-tuning approaches such as LoRA and progressively unfreezing parts of the slot attention module during RL training, allowing pretrained representations to adapt while maintaining their specialized structure. Moreover, we integrate modular Recurrent Independent Mechanisms (RIMs) in agents' value networks, encouraging sparsity and fast adaptation to changing environments, with modules dynamically activating based on relevant environmental contexts. This unique combination of attention mechanisms and modular processing results in specialized neural components that focus on different environmental aspects, thus improving coordination, generalization, and interpretability. We evaluate MAPLE in DeepMind's Melting Pot suite across three environments: mixed strategies (Prisoner's Dilemma), social good (Allelopathic Harvest), and resource management (Territory Room). Our results demonstrate that MAPLE not only enhances performance but also reveals emergent social capabilities across environments while providing deeper insights into the learned representations driving agent behaviors.'
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This study introduces the Metacognitive Architecture for Perceptual and Social Learning (MAPS), which integrates a second-order (metacognitive) network into AI systems to enhance social and continuous learning.
 
 tags:
-- Large Language Models
+  - Reinforcement Learning
 
+# Display this page in the Featured widget?
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: ''
+url_code: ''
+url_poster: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
+  caption: 'Image credit: [**Unsplash**](project2.jpg)'
+  focal_point: ''
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
