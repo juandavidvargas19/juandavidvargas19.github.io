@@ -21,8 +21,8 @@ role: Electronic engineer / Computer scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: CHUSJ Research Center (PPSP Laboratory)
+    url: https://www.ppsp.team/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,10 +34,6 @@ profiles:
     url: https://github.com/juandavidvargas19
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/juan-d-vargas-mazuera-07197a1a5/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -50,45 +46,89 @@ education:
     date_start: 2023-09-01
     date_end: 2025-04-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      GPA: 85%
+    
+      Courses included:
+      - Reinforcement Learning
+      - Representation Learning
+      - Artificial General Intelligence
+      - Distributed Systems
+        
+      Thesis on Metacognitive Architecture for Perceptual and Social Systems, a Neuro-inspired Metacognition Approach. Supervised by [Prof Guillaume Dumas](https://www.extrospection.eu/). Presented papers at Canadian AI 2024 and AAAI 2025.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: ' https://drive.google.com/drive/folders/1pjLuP49IZUJM00SsMrJs7sx-EzHZZbLo?usp=sharing'
+  
   - area: BSc Electronics engineering
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Pontificia Universidad Javeriana
+    date_start: 2017-08-01
+    date_end: 2022-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 86%
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Digital systems
+      - Physics of electronic devices
+      - Process automation
+      - Economic engineering
+    
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Neuro AI Researcher
+    company_name: CHUSJ Research Center (PPSP laboratory)
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-09-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Research on social cognition problems, translating insights from basic social neuroscience into AI
+      - Developing simulations that reflect the broad social spectrum of humans, focusing on dilemmas involving cooperation and competition
+      - Projects: 1) AI inspired by metacognition and 2) modular attention for competitive/cooperative multi-agent reinforcement learning
+      - Received multiple awards including AI scholarship (DIRO), Redaction scholarship (DIRO), and travel grants from Mila and UNIQUE
+      
+  - position: Research Assistant
+    company_name: CHUSJ Research Center (PPSP laboratory)
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+    date_start: 2024-06-01
+    date_end: 2024-08-31
+    summary: |2-
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Collecting and analyzing data for computational resources grant for the Digital Research Alliance of Canada (DRAC)
+      - Communicating with 25 team members to identify and measure computational needs
+      - Managing design, measurements, analysis, and writing of grant proposal
+      - Successfully increased RGU allocation from 1 to 65 RGU years (equivalent to CAD $220,000 using H100 80 GB GPUS metrics)
+      
+  - position: BSM Consultant
+    company_name: Procedata Internacional (Experian Colombia)
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-12-01
+    date_end: 2023-08-31
+    summary: |2-
+      Responsibilities include:
+      - Managing key business system (control-M) at Colombia's leading credit bureau
+      - Working with internal and external stakeholders (including Bancolombia and BBVA bank) to automate business workflows
+      - Identifying areas for improvement to enhance efficiency and productivity
+      - Updating control-M servers to industry standards, patching over 80% of vulnerabilities
+      - Resolving 100% of assigned critical incidents threatening credit data availability within an average of 2 hours
+      
+  - position: Intern (Semi-autonomous driving division)
+    company_name: Robert Bosch GmbH
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-04-01
+    date_end: 2021-08-31
+    summary: |2-
+      Responsibilities include:
+      - Supporting the development of automatic camera composition design using machine learning (1-click camera)
+      - Developing a centralized, SQL-based graph that enlarged the associated relational neural network on ANZO by 40%+
+      - Creating a centralized site for internal knowledge storage and sharing
+      - Collecting 5000+ data points for a machine-learning readable database
+      - Achieved 100% mark for internship performance
 
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -96,40 +136,101 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learning
         description: ''
-        percent: 100
+        percent: 85
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
+      - name: C
+        description: ''
+        percent: 75
+        icon: code
+      - name: MATLAB
+        description: ''
+        percent: 70
+        icon: calculator
+      - name: Docker & Kubernetes
+        description: ''
+        percent: 65
+        icon: server-stack
+  - name: Additional Technical Skills
+    color: '#3498db'
+    color_border: '#2980b9'
+    items:
+      - name: Linux
+        description: ''
+        percent: 85
+        icon: terminal
+      - name: Git
+        description: ''
+        percent: 80
+        icon: git-branch
+      - name: Power BI
+        description: ''
+        percent: 70
+        icon: chart-pie
+      - name: AutoCAD
+        description: ''
+        percent: 70
+        icon: pencil-ruler
+      - name: LaTeX
+        description: ''
+        percent: 70
+        icon: document-text
+  - name: Certifications
+    color: '#27ae60'
+    color_border: '#2ecc71'
+    items:
+      - name: Trustworthy and Responsible AI
+        description: ''
+        percent: 100
+        icon: certificate
+      - name: Machine Learning
+        description: ''
+        percent: 100
+        icon: certificate
+      - name: Azure AI & ML Deployment
+        description: ''
+        percent: 100
+        icon: cloud
+      - name: Fintech Applications
+        description: ''
+        percent: 100
+        icon: currency-dollar
+      - name: Stock Market Analysis
+        description: ''
+        percent: 100
+        icon: chart-line
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Chess
+        description: ''
+        percent: 85
+        icon: chess-king
+      - name: Basketball
+        description: ''
+        percent: 75
+        icon: basketball
+      - name: Bridge (card game)
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
+        icon: playing-cards
 languages:
-  - name: English
+  - name: Spanish (native)
     percent: 100
-  - name: Chinese
+  - name: English (C2/TOEFL)
+    percent: 95
+  - name: German (B2/TestDaF)
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French (B1)
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
