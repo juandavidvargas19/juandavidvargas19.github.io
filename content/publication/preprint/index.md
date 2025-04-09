@@ -5,11 +5,15 @@ title: 'MAPLE: Modular Attention for Interpretable and Prosocial Multi-Agent Rei
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Natalie Kastel
-  - Antoine Pasquali
-  - Axel Cleeremans
   - Zahra Sheikhbahaee
+  - Chang Su
+  - Aniket Rajiv Didolkar
+  - admin
+  - Manoosh Samiei
+  - Leonardo Christov-Moore
+  - Nicco Reggente
+  - Dianbo Liu
+  - Irina Rish
   - Guillaume Dumas
     
 date: '2025-03-01'
