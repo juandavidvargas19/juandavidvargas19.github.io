@@ -24,7 +24,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](omus.jpg)'
+  caption: 'Image credit: [**Unsplash**](omus.png)'
   focal_point: Right
 
 projects:
