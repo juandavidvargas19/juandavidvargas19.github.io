@@ -1,5 +1,5 @@
 ---
-title:'MAPLE: Modular Attention for Interpretable and Prosocial Multi-Agent Reinforcement Learning'
+title:"MAPLE: Modular Attention for Interpretable and Prosocial Multi-Agent Reinforcement Learning"
 
 authors:
   - Zahra Sheikhbahaee
