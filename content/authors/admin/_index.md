@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: J. David Vargas Mazuera
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: J. David
+last_name: Vargas Mazuera
 
 # Status emoji
 status:
