@@ -334,4 +334,4 @@ awards:
 
 ## About Me
 
-Juan David Vargas Mazuera is an electronic engineer and computer scientist, with a strong foundation in math, AI, and fintech. He has multifaceted experience: working as a researcher designing AI architectures for prosocial settings, managing business systems in the leading credit bureau in Colombia, and working in independent fintech projects. He enjoys working in multi-skilled teams that allow him to learn from his peers and stimulate his ideas. 
+David Vargas Mazuera is an electronic engineer and computer scientist, with a strong foundation in math, AI, and fintech. He has multifaceted experience: working as a researcher designing AI architectures for prosocial settings, managing business systems in the leading credit bureau in Colombia, and working in independent fintech projects. He enjoys working in multi-skilled teams that allow him to learn from his peers and stimulate his ideas. 
