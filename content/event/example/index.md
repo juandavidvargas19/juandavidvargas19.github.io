@@ -1,7 +1,7 @@
 ---
 title: Five engineering students traveled to Germany for an international exchange program.
 
-event: KOSPIE scholarship, [link media coverage](https://www.javerianacali.edu.co/noticias/cinco-estudiantes-de-ingenieria-viajaron-alemania-para-vivir-un-intercambio-internacional)
+event: "KOSPIE scholarship, [link media coverage](https://www.javerianacali.edu.co/noticias/cinco-estudiantes-de-ingenieria-viajaron-alemania-para-vivir-un-intercambio-internacional)"
 
 location: Pontificia Universidad Javeriana Cali
 
