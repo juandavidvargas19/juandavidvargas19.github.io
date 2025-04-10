@@ -105,6 +105,7 @@ sections:
         - **December 2021 - January 2022**. I volunteered at **SERART**, Guadalajara.
         - **April - August 2021**. I worked at **Bosch in Schwieberdingen, Germany**, as an intern in **Knowledge Management for Semi-Autonomous Driving**.
         - **October 2020 - March 2021**. I studied at **Otto-von-Guericke-Universität Magdeburg** as an exchange student as part of the **KOSPIE scholarship**.
+        - **June 2020** . I was awarded the KOSPIE scholarship by the DAAD, targeted to have a 1 year experience in Germany for 50 engineering students in Colombia.
         - **November 2017**. I won **1st place** in the **National Mathematics Competition** (ORM).
         - **August 2017**. I was awarded a **Half Tuition Scholarship** from **Javeriana University** (2017-2021).
         - **June 2017**. I was **selected for a 1-month National Math Boot Camp** by **OCM**.
