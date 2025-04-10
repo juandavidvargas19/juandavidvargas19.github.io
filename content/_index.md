@@ -89,7 +89,6 @@ sections:
         - **July 2023**. I was accepted into UdeM to the AI MSc with Mila Quebec Institute. I was awarded an exemption scholarship, and a monthly stipend for the duration of my studies by the PPSP Laboratory.
         - **January 2023**. I became the Backoffice vice-president in AIESEC Cali, being in charge of Talent Acquisition management, and financial planning support.
         - **December 2022**. I started to work at Procedata Internacional as a Control M administrator in Data Crédito - Experian (development of new flows, business software development, and control shells programming).
-        - **December 2022**. I was awarded an honor mention in the OMUS 2022 (university level math olympiads of southwestern Colombia).
         - **December 2022**. I finished the "Machine Learning" specialization at Coursera.
         - **December 2022**. I finished the "AI in Healthcare" specialization at Coursera.
         - **December 2022**. I finished the "Mathematics for Machine Learning" specialization at Coursera.
@@ -99,6 +98,7 @@ sections:
         - **November 2022**. I finished the "Object Oriented Programming in Java" course at Coursera.
         - **September 2022**. I finished the "Stock Market Self-Regulator Exam Preparation" course at BVC Online.
         - **August 2022**. I finished my BSc project "Comparison of Machine Learning Methods Applied to Predicting Short-Term Movements of DJIA Stocks During Quarterly Financial Reporting Periods".
+        - **July 2022**. I was awarded an honor mention in the OMUS 2022 (university level math olympiads of southwestern Colombia).
         - **June - July 2022**. I volunteered at CEFAMM, Quito.
         - **June 2022**. I finished the "Diploma in Stock Market" course at BVC Online.
         - **April 2022**. I finished the "Machine Learning with Python: A Practical Introduction" course at EdX.
