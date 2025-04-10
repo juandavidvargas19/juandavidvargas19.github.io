@@ -76,10 +76,11 @@ work:
     date_start: 2023-09-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
+      Responsibilities and achievements include:
       - Research on social cognition problems, translating insights from basic social neuroscience into AI
       - Developing simulations that reflect the broad social spectrum of humans, focusing on dilemmas involving cooperation and competition
       - Projects: 1) AI inspired by metacognition and 2) modular attention for competitive/cooperative multi-agent reinforcement learning
+      - Achieved numerous academic participations in national and international conferences, as well a co-authorship of the Neuromatch Neuro AI course 2024 (refer to CV in bio for additional information)
       - Received multiple awards including AI scholarship (DIRO), Redaction scholarship (DIRO), and travel grants from Mila and UNIQUE
       
   - position: Research Assistant
@@ -89,7 +90,7 @@ work:
     date_start: 2024-06-01
     date_end: 2024-08-31
     summary: |2-
-      Responsibilities include:
+      Responsibilities and achievements include:
       - Collecting and analyzing data for computational resources grant for the Digital Research Alliance of Canada (DRAC)
       - Communicating with 25 team members to identify and measure computational needs
       - Managing design, measurements, analysis, and writing of grant proposal
@@ -102,7 +103,7 @@ work:
     date_start: 2022-12-01
     date_end: 2023-08-31
     summary: |2-
-      Responsibilities include:
+      Responsibilities and achievements include:
       - Managing key business system (control-M) at Colombia's leading credit bureau
       - Working with internal and external stakeholders (including Bancolombia and BBVA bank) to automate business workflows
       - Identifying areas for improvement to enhance efficiency and productivity
@@ -116,7 +117,7 @@ work:
     date_start: 2021-04-01
     date_end: 2021-08-31
     summary: |2-
-      Responsibilities include:
+      Responsibilities and achievements include:
       - Supporting the development of automatic camera composition design using machine learning (1-click camera)
       - Developing a centralized, SQL-based graph that enlarged the associated relational neural network on ANZO by 40%+
       - Creating a centralized site for internal knowledge storage and sharing
