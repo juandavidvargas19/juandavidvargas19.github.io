@@ -11,7 +11,7 @@ abstract: 'I achieved an honor mention in the university level Mathematics Olymp
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-12-01'
+date: '2022-07-01'
 
 
 authors:
