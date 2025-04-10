@@ -38,7 +38,7 @@ interests:
 
 education:
   - area: MSc Computer Science, Artificial Intelligence major
-    institution: Université de Montréal
+    institution: Université de Montréal, Canada
     date_start: 2023-09-01
     date_end: 2025-04-30
     summary: |
@@ -56,7 +56,7 @@ education:
       url: https://drive.google.com/drive/folders/1pjLuP49IZUJM00SsMrJs7sx-EzHZZbLo?usp=sharing
   
   - area: BSc Electronics engineering
-    institution: Pontificia Universidad Javeriana
+    institution: Pontificia Universidad Javeriana, Colombia
     date_start: 2017-08-01
     date_end: 2022-12-31
     summary: |
