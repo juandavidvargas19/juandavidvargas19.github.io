@@ -1,8 +1,7 @@
 ---
 title: Silver, Bronze and Honorable Mentions for Univallunos at the OMUS4
 
-event: Honor mention colombian math olympiads
-event_url: https://ciencias.univalle.edu.co/noticias-y-actualidad/noticias/item/658-plata-bronce-y-menciones-de-honor-para-univallunos-en-la-omus4
+event: Honor mention colombian math olympiads, [Media Coverage](https://ciencias.univalle.edu.co/noticias-y-actualidad/noticias/item/658-plata-bronce-y-menciones-de-honor-para-univallunos-en-la-omus4 "")
 
 location: Pontificia Universidad Javeriana Cali
 
@@ -24,7 +23,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](omus.png)'
+  caption: '[OMUS](omus.png)'
   focal_point: Right
 
 projects:
