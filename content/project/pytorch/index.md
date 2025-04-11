@@ -3,9 +3,9 @@ title: MAPLE, Modular Attention for Interpretable and Prosocial Multi-Agent Rein
 date: 2025-02-01
 
 ---
-documentation: https://drive.google.com/file/d/1aEcKU-kzjo8WxM_sjoJr9HGxAzQRVw4g/view?usp=sharing
+Documentation: https://drive.google.com/file/d/1aEcKU-kzjo8WxM_sjoJr9HGxAzQRVw4g/view?usp=sharing
 
-tags:
+Tags:
   - Reinforcement Learning
   - Neuro-AI
   - Multi-Agent Systems
