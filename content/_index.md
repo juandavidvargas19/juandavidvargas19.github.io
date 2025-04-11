@@ -56,7 +56,7 @@ sections:
       columns: 2
  
   - block: collection
-    id: media Coverage
+    id: mediacoverage
     content:
       title: Media Coverage 
       filters:
