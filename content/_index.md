@@ -56,7 +56,7 @@ sections:
       columns: 2
  
   - block: collection
-    id: Media Coverage
+    id: media Coverage
     content:
       title: Media Coverage 
       filters:
@@ -67,7 +67,7 @@ sections:
       view: article-grid
       columns: 2
   - block: markdown
-    id: Timeline
+    id: timeline
     content:
       title: Timeline
       subtitle: ''
