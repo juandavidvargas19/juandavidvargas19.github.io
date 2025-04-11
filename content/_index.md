@@ -44,7 +44,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
+    id: Papers
     content:
       title: Featured Research Work
       filters:
@@ -56,7 +56,7 @@ sections:
       columns: 2
  
   - block: collection
-    id: talks
+    id: Media Coverage
     content:
       title: Media Coverage 
       filters:
@@ -67,7 +67,7 @@ sections:
       view: article-grid
       columns: 2
   - block: markdown
-    id: news
+    id: Timeline
     content:
       title: Timeline
       subtitle: ''
