@@ -44,7 +44,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: Papers
+    id: papers
     content:
       title: Featured Research Work
       filters:
