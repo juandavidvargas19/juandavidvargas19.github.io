@@ -3,9 +3,9 @@ title: MAPS, A Metacognitive Architecture for Improved Learning
 date: 2025-04-01
 
 ---
-documentation: https://drive.google.com/file/d/1Muyolvj6fD2IwnQXNde1kSpChpXFQja2/view?usp=sharing
+Documentation: https://drive.google.com/file/d/1Muyolvj6fD2IwnQXNde1kSpChpXFQja2/view?usp=sharing
 
-tags:
+Tags:
   - Metacognition
   - Reinforcement Learning
   - Artificial Intelligence
