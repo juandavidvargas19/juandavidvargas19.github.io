@@ -4,7 +4,7 @@ date: 2024-08-01
 external_link: ''
 
 ---
-tags:
+Tags:
   - Deep learning
   - Risk profiling
   - Financial modeling
