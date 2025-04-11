@@ -221,7 +221,7 @@ skills:
         icon: playing-cards
 languages:
   - name: Spanish (native)
-    percent: 100
+    percent: 98
   - name: English (C2/TOEFL)
     percent: 95
   - name: German (B2/TestDaF)
