@@ -125,7 +125,7 @@ education:
       - Economic engineering
 
 # Math Olympiads:
-Math Olympiads:
+maths:
 
   - title: Honor Mention in Regional Math Competition
     date: '2022-07-01'
