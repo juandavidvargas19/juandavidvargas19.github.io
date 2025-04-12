@@ -233,11 +233,11 @@ languages:
 
 awards:
   - title: Honor Mention in Regional Math Competition
-    date: '2025-02-01'
-    awarder: UNIQUE
-    icon: plane
+    date: '2022-07-01'
+    awarder: OMUS
+    icon: certificate
     summary: |
-      Grants to support travel to present research papers at AAAI 2025.
+      Recognition for outstanding performance in the regional mathematics competition of southwestern Colombia.
   
 awards:
   - title: Honor Mention in Regional Math Competition
