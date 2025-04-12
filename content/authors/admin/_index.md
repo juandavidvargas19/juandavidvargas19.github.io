@@ -231,15 +231,6 @@ languages:
   - name: French (B1)
     percent: 60
 
-
-awards:
-  - title: Travel Grant
-    date: '2025-02-01'
-    awarder: UNIQUE
-    icon: plane
-    summary: |
-      Grants to support travel to present research papers at AAAI 2025.
-  
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
