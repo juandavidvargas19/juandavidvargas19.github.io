@@ -124,14 +124,37 @@ education:
       - Process automation
       - Economic engineering
 
-Math Olympiads:
-  - area: Honor Mention in Regional Math Competition
-    institution: Pontificia Universidad Javeriana
+awards:
+  - title: Travel Grant
+    date: '2025-02-01'
+    awarder: UNIQUE
+    icon: plane
+    summary: |
+      Grants to support travel to present research papers at AAAI 2025.
+    
+# Math Olympiads:
+
+  - title: Honor Mention in Regional Math Competition
     date: '2022-07-01'
+    awarder: OMUS
+    icon: certificate
     summary: |
       Recognition for outstanding performance in the regional mathematics competition of southwestern Colombia.
-
- 
+  
+   - title: First Place in National Mathematics Competition
+    date: '2017-10-01'
+    awarder: Universidad del Valle (ORM)
+    icon: medal
+    summary: |
+      First place in the 11th Regional Mathematics Competition (ORM) that has nationwide participation. Competed in the advanced level (10th and 11th grade) against students from across Colombia.
+  
+  - title: Top 10 in Colombian Mathematics Olympiad
+    date: '2017-06-01'
+    awarder: Universidad Antonio Nariño (OCM)
+    icon: award
+    summary: |
+      Ranked in the top 10 in the national selection phase prior to the International Mathematical Olympiad (IMO). Selected for an intensive 1-month mathematics boot camp in Bogotá, competing for 6 available places to represent Colombia at the IMO.
+    
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # Skills
@@ -291,14 +314,7 @@ awards:
     icon: university
     summary: |
       Tuition exemption scholarship for graduate studies at Université de Montréal.
-  
-  - title: Honor Mention in Regional Math Competition
-    date: '2022-07-01'
-    awarder: OMUS
-    icon: certificate
-    summary: |
-      Recognition for outstanding performance in the regional mathematics competition of southwestern Colombia.
-  
+    
   - title: KOSPIE Scholarship
     date: '2020-07-01'
     awarder: DAAD (German Academic Exchange Service)
@@ -310,13 +326,6 @@ awards:
       - An academic semester at Otto-von-Guericke-Universität Magdeburg (achieved 90% GPA)
       - An internship semester at Robert Bosch GmbH in Germany
       All expenses were covered including travel, accommodation, and living costs.
-  
-  - title: First Place in National Mathematics Competition
-    date: '2017-10-01'
-    awarder: Universidad del Valle (ORM)
-    icon: medal
-    summary: |
-      First place in the 11th Regional Mathematics Competition (ORM) that has nationwide participation. Competed in the advanced level (10th and 11th grade) against students from across Colombia.
   
   - title: Half Tuition Scholarship
     date: '2017-08-01'
@@ -331,13 +340,7 @@ awards:
     icon: star
     summary: |
       Excellence honor mention awarded to students with at least 8 out of 14 classes with a grade of 92% or higher, with no class grade lower than 80%. Recognition given for academic excellence throughout the entire academic year.
-  
-  - title: Top 10 in Colombian Mathematics Olympiad
-    date: '2017-06-01'
-    awarder: Universidad Antonio Nariño (OCM)
-    icon: award
-    summary: |
-      Ranked in the top 10 in the national selection phase prior to the International Mathematical Olympiad (IMO). Selected for an intensive 1-month mathematics boot camp in Bogotá, competing for 6 available places to represent Colombia at the IMO.
+
 ---
 
 ## About Me
