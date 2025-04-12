@@ -259,6 +259,9 @@ awards:
       Ranked in the top 10 in the national selection phase prior to the International Mathematical Olympiad (IMO). Selected for an intensive 1-month mathematics boot camp in Bogotá, competing for 6 available places to represent Colombia at the IMO.
 
 # Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
   - title: Travel Grant
