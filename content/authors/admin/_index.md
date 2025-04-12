@@ -232,7 +232,7 @@ languages:
     percent: 60
 
 awards:
-  - title: Travel Grant
+  - title: Honor Mention in Regional Math Competition
     date: '2025-02-01'
     awarder: UNIQUE
     icon: plane
