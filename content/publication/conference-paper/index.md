@@ -36,8 +36,8 @@ tags:
 featured: true
 
 url_pdf: 'https://drive.google.com/file/d/1Muyolvj6fD2IwnQXNde1kSpChpXFQja2/view?usp=sharing'
-url_code: ''
-url_poster: ''
+url_code: 'https://github.com/juandavidvargas19/MAPS_PROJECT'
+url_poster: 'https://drive.google.com/file/d/1rFShCI0jzXTrXj8ub1mds-A4dUzyYEuG/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -48,4 +48,7 @@ image:
 
 
 ---
+
+[paper, proceedings of TOM4AI workshop AAAI 2025](https://drive.google.com/file/d/1bQgoUa9TBQBz4KLuhfqV1JS54oN98GOB/view?usp=sharing "")
+[paper, submitted to RLC 2025](https://drive.google.com/file/d/1Muyolvj6fD2IwnQXNde1kSpChpXFQja2/view?usp=sharing "")
 
