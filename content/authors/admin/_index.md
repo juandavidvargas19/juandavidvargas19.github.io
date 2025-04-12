@@ -236,7 +236,9 @@ awards:
     date: '2022-07-01'
     awarder: OMUS
     icon: certificate
-
+    summary: |
+      Honor mention in university level math olympiads of southwest Colombia
+      
    - title: First Place in National Mathematics Competition
     date: '2017-10-01'
     awarder: Universidad del Valle (ORM)
