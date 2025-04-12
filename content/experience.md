@@ -32,7 +32,7 @@ sections:
     content:
       title: Math Olympiads
       username: admin
-      filename: math_olympiads
+      filename: math_olympiads.yaml
   - block: resume-languages
     content:
       title: Languages
