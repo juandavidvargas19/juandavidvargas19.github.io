@@ -26,6 +26,10 @@ sections:
       show_skill_percentage: false
   - block: resume-awards
     content:
+      title: Math Olympiads
+      username: admin
+  - block: resume-awards
+    content:
       title: Awards
       username: admin
   - block: resume-languages
