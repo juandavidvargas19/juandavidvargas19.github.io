@@ -236,8 +236,6 @@ awards:
     date: '2022-07-01'
     awarder: OMUS
     icon: certificate
-    summary: |
-      Grants to support travel to present research papers at AAAI 2025.
 
    - title: First Place in National Mathematics Competition
     date: '2017-10-01'
