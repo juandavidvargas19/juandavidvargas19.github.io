@@ -231,19 +231,8 @@ languages:
   - name: French (B1)
     percent: 60
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 awards:
-  - title: Travel Grant
-    date: '2025-02-01'
-    awarder: UNIQUE
-    icon: plane
-    summary: |
-      Grants to support travel to present research papers at AAAI 2025.
-  
   - title: Honor Mention in Regional Math Competition
     date: '2022-07-01'
     awarder: OMUS
