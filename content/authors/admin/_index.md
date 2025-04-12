@@ -124,9 +124,8 @@ education:
       - Process automation
       - Economic engineering
 
-# Math Olympiads:
+# Maths:
 maths:
-
   - title: Honor Mention in Regional Math Competition
     date: '2022-07-01'
     awarder: OMUS
