@@ -123,7 +123,15 @@ education:
       - Physics of electronic devices
       - Process automation
       - Economic engineering
-        
+
+Math Olympiads:
+  - area: Honor Mention in Regional Math Competition
+    institution: Pontificia Universidad Javeriana
+    date: '2022-07-01'
+    summary: |
+      Recognition for outstanding performance in the regional mathematics competition of southwestern Colombia.
+
+ 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # Skills
@@ -289,7 +297,7 @@ awards:
     awarder: OMUS
     icon: certificate
     summary: |
-      Recognition for outstanding performance in the regional mathematics competition.
+      Recognition for outstanding performance in the regional mathematics competition of southwestern Colombia.
   
   - title: KOSPIE Scholarship
     date: '2020-07-01'
