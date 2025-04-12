@@ -49,6 +49,9 @@ image:
 
 ---
 
-[paper, proceedings of TOM4AI workshop AAAI 2025](https://drive.google.com/file/d/1bQgoUa9TBQBz4KLuhfqV1JS54oN98GOB/view?usp=sharing "")
-[paper, submitted to RLC 2025](https://drive.google.com/file/d/1Muyolvj6fD2IwnQXNde1kSpChpXFQja2/view?usp=sharing "")
+[paper (proceedings of TOM4AI workshop - AAAI 2025)](https://drive.google.com/file/d/1bQgoUa9TBQBz4KLuhfqV1JS54oN98GOB/view?usp=sharing "")
+
+---
+
+[paper (submitted to RLC 2025)](https://drive.google.com/file/d/1Muyolvj6fD2IwnQXNde1kSpChpXFQja2/view?usp=sharing "")
 
