@@ -238,15 +238,7 @@ awards:
     icon: certificate
     summary: |
       Recognition for outstanding performance in the regional mathematics competition of southwestern Colombia.
-  
-awards:
-  - title: Honor Mention in Regional Math Competition
-    date: '2022-07-01'
-    awarder: OMUS
-    icon: certificate
-    summary: |
-      Recognition for outstanding performance in the regional mathematics competition of southwestern Colombia.
-  
+
    - title: First Place in National Mathematics Competition
     date: '2017-10-01'
     awarder: Universidad del Valle (ORM)
