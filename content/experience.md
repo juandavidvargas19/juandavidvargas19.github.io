@@ -32,6 +32,7 @@ sections:
     content:
       title: Math Olympiads
       username: admin
+      filename: math_olympiads
   - block: resume-languages
     content:
       title: Languages
