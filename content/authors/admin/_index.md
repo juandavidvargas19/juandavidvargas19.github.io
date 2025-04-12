@@ -34,40 +34,8 @@ profiles:
 interests:
   - Artificial Intelligence
   - Processes Automation
-  - Capital Markets 
-
-education:
-  - area: MSc Computer Science, Artificial Intelligence major
-    institution: Université de Montréal, Canada
-    date_start: 2023-09-01
-    date_end: 2025-04-30
-    summary: |
-      GPA: 85%
-    
-      Courses included:
-      - Reinforcement Learning
-      - Representation Learning
-      - Artificial General Intelligence
-      - Distributed Systems
+  - Capital Markets
         
-      Thesis on Metacognitive Architecture for Perceptual and Social Systems, a Neuro-inspired Metacognition Approach. Supervised by [Prof Guillaume Dumas](https://www.extrospection.eu/). Presented papers at Canadian AI 2024 and AAAI 2025.
-    button:
-      text: 'Read Thesis'
-      url: https://drive.google.com/drive/folders/1pjLuP49IZUJM00SsMrJs7sx-EzHZZbLo?usp=sharing
-  
-  - area: BSc Electronics engineering
-    institution: Pontificia Universidad Javeriana, Colombia
-    date_start: 2017-08-01
-    date_end: 2022-12-31
-    summary: |
-      GPA: 86%
-      
-      Courses included:
-      - Digital systems
-      - Physics of electronic devices
-      - Process automation
-      - Economic engineering
-    
 work:
   - position: Neuro AI Researcher
     company_name: CHUSJ Research Center (PPSP laboratory)
@@ -124,6 +92,38 @@ work:
       - Collecting 5000+ data points for a machine-learning readable database
       - Achieved 100% mark for internship performance
 
+education:
+  - area: MSc Computer Science, Artificial Intelligence major
+    institution: Université de Montréal, Canada
+    date_start: 2023-09-01
+    date_end: 2025-04-30
+    summary: |
+      GPA: 85%
+    
+      Courses included:
+      - Reinforcement Learning
+      - Representation Learning
+      - Artificial General Intelligence
+      - Distributed Systems
+        
+      Thesis on Metacognitive Architecture for Perceptual and Social Systems, a Neuro-inspired Metacognition Approach. Supervised by [Prof Guillaume Dumas](https://www.extrospection.eu/). Presented papers at Canadian AI 2024 and AAAI 2025.
+    button:
+      text: 'Read Thesis'
+      url: https://drive.google.com/drive/folders/1pjLuP49IZUJM00SsMrJs7sx-EzHZZbLo?usp=sharing
+  
+  - area: BSc Electronics engineering
+    institution: Pontificia Universidad Javeriana, Colombia
+    date_start: 2017-08-01
+    date_end: 2022-12-31
+    summary: |
+      GPA: 86%
+      
+      Courses included:
+      - Digital systems
+      - Physics of electronic devices
+      - Process automation
+      - Economic engineering
+        
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # Skills
