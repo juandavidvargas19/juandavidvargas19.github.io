@@ -28,11 +28,12 @@ sections:
     content:
       title: Awards
       username: admin
+      filename: awards.md
   - block: resume-awards
     content:
       title: Math Olympiads
       username: admin
-      filename: math_olympiads.yaml
+      filename: math_olympiads.md
   - block: resume-languages
     content:
       title: Languages
