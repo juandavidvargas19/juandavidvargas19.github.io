@@ -28,7 +28,9 @@ sections:
     content:
       title: Awards
       username: admin
-      filename: awards
+      filters:
+        folders:
+          - experience/awards
   - block: resume-awards
     content:
       title: Math Olympiads
