@@ -31,14 +31,13 @@ sections:
   - block: collection
     content:
       title: Math Olympiads
-      count: 0
       text: Over the years I enjoyed logical challenges through math competitions.
       filters:
         folders:
           - experience
     design:
       view: article-grid
-      columns: 3
+      columns: 6
   - block: resume-languages
     content:
       title: Languages
