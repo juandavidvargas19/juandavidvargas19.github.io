@@ -244,7 +244,20 @@ awards:
     icon: plane
     summary: |
       Grant to support travel to present my workshop paper at AAAI 2025.
-  
+
+  - title: Redaction Scholarship
+    date: '2024-12-01'
+    awarder: DIRO
+    icon: edit
+    summary: |
+      Scholarship (worth CAD $5,000) awarded to support the academic writing and publication of my research paper.
+
+  - title: Entrepeneurship grant (2)
+    date: '2024-06-01'
+    awarder: Mila Quebec AI Institute
+    icon: edit
+    summary: |
+       One of my projects was awarded 2 entrepeneurship grants (worth CAD $10,000) by Mila Quebec AI Institute for the development of a financial chatbot.
 
 ---
 
