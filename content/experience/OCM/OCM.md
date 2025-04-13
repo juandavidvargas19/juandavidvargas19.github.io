@@ -1,10 +1,9 @@
 ---
-title: MAPS, A Metacognitive Architecture for Improved Learning
-date: 2025-04-01
+title: Top 10 in Colombian Mathematics Olympiad
+date: 2017-06-01
 
 ---
 
-Presented at the AAAI 2025 conference (TOM4AI workshop), and submitted to the Reinforcement Learning Conference (RLC) 2025. This study introduces the Metacognitive Architecture for Perceptual and Social Learning (MAPS), which integrates a second-order (metacognitive) network into AI systems to enhance social and continuous learning.
-
+Ranked in the top 10 in the national selection phase prior to the International Mathematical Olympiad (IMO). Selected for an intensive 1-month mathematics boot camp in Bogotá, competing for 6 available places to represent Colombia at the IMO.
 
 <!--more-->
