@@ -272,6 +272,20 @@ awards:
     icon: globe
     summary: |
       International fellowship (worth CAD $4,000) awarded to support  my graduate studies and research at Université de Montréal.
+
+  - title: AI Scholarship
+    date: '2024-03-01'
+    awarder: DIRO (Département d'Informatique et de Recherche Opérationnelle)
+    icon: university
+    summary: |
+      Merit-based scholarship (worth CAD $5,000) awarded to support research in artificial intelligence at Université de Montréal.
+
+ - title: International Fellowship
+    date: '2023-12-01'
+    awarder: DIRO
+    icon: globe
+    summary: |
+      International fellowship (worth CAD $3,000) awarded to support  my graduate studies and research at Université de Montréal.
 ---
 
 ## About Me
