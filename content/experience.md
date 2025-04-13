@@ -37,7 +37,7 @@ sections:
           - experience
     design:
       view: article-grid
-      columns: 6
+      columns: 3
   - block: resume-languages
     content:
       title: Languages
