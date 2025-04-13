@@ -30,6 +30,7 @@ sections:
       username: admin
   - block: collection
     content:
+      count: 0
       title: Math Olympiads
       text: Over the years I enjoyed logical challenges through math competitions.
       filters:
