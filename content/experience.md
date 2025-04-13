@@ -24,18 +24,17 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
-      filters:
-        folders:
-          - experience/awards
-  - block: resume-awards
+  - block: collection
     content:
       title: Math Olympiads
-      username: admin
-      filename: math_olympiads
+      text: Over the years I enjoyed logical challenges through math competitions.
+      filters:
+        folders:
+          - experience
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
   - block: resume-languages
     content:
       title: Languages
