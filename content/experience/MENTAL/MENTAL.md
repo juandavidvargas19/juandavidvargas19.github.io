@@ -1,11 +1,10 @@
 ---
-title: MAPS, A Metacognitive Architecture for Improved Learning
-date: 2025-04-01
+title: First Place in Intercity mental calculus competition
+date: 2015-12-01
 
 ---
 
-Presented at the AAAI 2025 conference (TOM4AI workshop), and submitted to the Reinforcement Learning Conference (RLC) 2025. This study introduces the Metacognitive Architecture for Perceptual and Social Learning (MAPS), which integrates a second-order (metacognitive) network into AI systems to enhance social and continuous learning.
-
+First place at the mental calculus competition from the Liceo Tacuri school that has participation of students from multiple cities. Competed in the advanced level (10th and 11th grade).
 
 <!--more-->
 
