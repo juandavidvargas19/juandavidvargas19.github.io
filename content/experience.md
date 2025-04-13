@@ -32,7 +32,7 @@ sections:
     content:
       count: 0
       title: Math Olympiads
-      text: Over the years I enjoyed logical challenges through math competitions.
+      text: Over the years I enjoyed logical challenges through math competitions. This hobby started back in early 2013, though factual results started to show only starting late 2015
       filters:
         folders:
           - experience
