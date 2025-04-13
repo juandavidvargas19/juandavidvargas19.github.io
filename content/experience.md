@@ -35,7 +35,6 @@ sections:
       filters:
         folders:
           - experience
-        featured_only: true
     design:
       view: article-grid
       fill_image: false
