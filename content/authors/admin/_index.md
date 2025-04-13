@@ -259,6 +259,19 @@ awards:
     summary: |
        One of my projects was awarded 2 entrepeneurship grants (worth CAD $10,000) by Mila Quebec AI Institute for the development of a financial chatbot.
 
+  - title: Travel Grant
+    date: '2024-05-01'
+    awarder: Mila Quebec AI Institute
+    icon: plane
+    summary: |
+      Grants to support travel to present research papers at Canadian AI 2024.
+  
+  - title: International Fellowship
+    date: '2024-04-01'
+    awarder: DIRO
+    icon: globe
+    summary: |
+      International fellowship (worth CAD $4,000) awarded to support  my graduate studies and research at Université de Montréal.
 ---
 
 ## About Me
