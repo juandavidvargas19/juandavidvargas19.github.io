@@ -1,10 +1,23 @@
 ---
-title: MAPS, A Metacognitive Architecture for Improved Learning
-date: 2025-04-01
+title: First Place in National Mathematics Competition
+date: 2017-11-01
 
 ---
 
-Presented at the AAAI 2025 conference (TOM4AI workshop), and submitted to the Reinforcement Learning Conference (RLC) 2025. This study introduces the Metacognitive Architecture for Perceptual and Social Learning (MAPS), which integrates a second-order (metacognitive) network into AI systems to enhance social and continuous learning.
+First place in the 11th Regional Mathematics Competition (ORM) that has nationwide participation. Competed in the advanced level (10th and 11th grade) against students from across Colombia.
 
+  - title: First Place in National Mathematics Competition
+    date: '2017-10-01'
+    awarder: Universidad del Valle (ORM)
+    icon: medal
+    summary: |
+      First place in the 11th Regional Mathematics Competition (ORM) that has nationwide participation. Competed in the advanced level (10th and 11th grade) against students from across Colombia.
+  
+  - title: Top 10 in Colombian Mathematics Olympiad
+    date: '2017-06-01'
+    awarder: Universidad Antonio Nariño (OCM)
+    icon: award
+    summary: |
+      Ranked in the top 10 in the national selection phase prior to the International Mathematical Olympiad (IMO). Selected for an intensive 1-month mathematics boot camp in Bogotá, competing for 6 available places to represent Colombia at the IMO.
 
 <!--more-->
