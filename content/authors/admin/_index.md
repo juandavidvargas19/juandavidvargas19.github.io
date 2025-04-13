@@ -260,7 +260,7 @@ awards:
 
   - title: Travel Grant
     date: '2024-05-01'
-    awarder: Mila
+    awarder: Mila Quebec AI Institute
     icon: plane
     summary: |
       Grants to support travel to present research papers at Canadian AI 2024.
