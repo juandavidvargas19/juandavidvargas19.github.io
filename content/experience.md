@@ -36,8 +36,7 @@ sections:
         folders:
           - experience
     design:
-      view: article-grid
-      columns: 3
+      view: card
   - block: resume-languages
     content:
       title: Languages
