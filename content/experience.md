@@ -31,7 +31,7 @@ sections:
   - block: collection
     content:
       title: Math Olympiads
-      count: 6
+      count: 0
       text: Over the years I enjoyed logical challenges through math competitions.
       filters:
         folders:
