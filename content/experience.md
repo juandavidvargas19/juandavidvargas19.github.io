@@ -35,6 +35,8 @@ sections:
       filters:
         folders:
           - experience
+        featured_only: true
+
     design:
       view: article-grid
       columns: 3
