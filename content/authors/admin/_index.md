@@ -280,12 +280,7 @@ awards:
     summary: |
       Merit-based scholarship (worth CAD $5,000) awarded to support research in artificial intelligence at Université de Montréal.
 
- - title: International Fellowship (Fall)
-    date: '2023-12-01'
-    awarder: DIRO
-    icon: globe
-    summary: |
-      International fellowship (worth CAD $3,000) awarded to support  my graduate studies and research at Université de Montréal.
+
 
 ---
 
