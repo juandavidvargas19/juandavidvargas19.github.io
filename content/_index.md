@@ -54,7 +54,6 @@ sections:
     design:
       view: article-grid
       columns: 2
- 
   - block: collection
     id: mediacoverage
     content:
@@ -62,7 +61,6 @@ sections:
       filters:
         folders:
           - event
-    
     design:
       view: article-grid
       columns: 2
