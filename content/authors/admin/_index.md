@@ -238,6 +238,13 @@ languages:
 
 awards:
 
+  - title: Excellence Scholarship
+    date: '2025-04-01'
+    awarder: DIRO (Département d'Informatique et de Recherche Opérationnelle)
+    icon: edit
+    summary: |
+      Scholarship (worth CAD $4,000) awarded to support computer science students with an excellent track record.
+
   - title: Travel Grant
     date: '2025-02-01'
     awarder: UNIQUE
