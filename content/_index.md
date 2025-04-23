@@ -70,6 +70,7 @@ sections:
       title: Timeline
       subtitle: ''
       text: |
+        - **April 2025**. I was awarded the DIRO (Département d’informatique et de recherche opérationnelle) excellence scholarship.
         - **March 2025**. The PPSP Lab increased its RGU allocation from 1 to 65 RGU years, which is closely equivalent to a market value of CAD $220,000 using the metrics of H100 80 GB GPUS of DRAC. This was in part the result of my work to compile and submit the resources grant during the summer of 2024. 
         - **March 2025**. I presented MAPS at the TOM4AI workshop in AAAI 2025.
         - **February 2025**. I was awarded a travel grant by UNIQUE to do a presentation in the AAAI 2025 conference.
