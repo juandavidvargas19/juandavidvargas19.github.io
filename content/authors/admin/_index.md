@@ -313,12 +313,12 @@ awards:
     awarder: DAAD (German Academic Exchange Service)
     icon: germany
     summary: |
-      Competitive scholarship (worth CAD $40,000) awarded to only 50 engineering students in Colombia annually. The scholarship covered:
+      Competitive scholarship (worth CAD $40,000) awarded to only 50 engineering students in Colombia annually. The scholarship covered all expenses including travel, accommodation, and living costs for:
+:
       - A 1-year German language course in Colombia
       - A 2-month intensive German course (B2) in Germany
-      - An academic semester at Otto-von-Guericke-Universität Magdeburg (achieved 90% GPA)
-      - An internship semester at Robert Bosch GmbH in Germany
-      All expenses were covered including travel, accommodation, and living costs.
+      - An academic semester in Germany (done at Otto-von-Guericke-Universität Magdeburg, achieved 90% GPA)
+      - An internship semester in Germany (done at Robert Bosch GmbH, achieved 100% mark) 
   
   - title: Half Tuition Scholarship
     date: '2017-08-01'
@@ -329,7 +329,7 @@ awards:
   
   - title: Excellence Honor Mention
     date: '2017-07-01'
-    awarder: Colegio San Antonio María Claret
+    awarder: San Antonio María Claret High School
     icon: star
     summary: |
       Excellence honor mention awarded to students with at least 8 out of 14 classes with a grade of 92% or higher, with no class grade lower than 80%. Recognition given for academic excellence throughout the entire academic year.
