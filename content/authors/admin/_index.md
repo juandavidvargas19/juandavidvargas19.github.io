@@ -250,7 +250,7 @@ awards:
     awarder: UNIQUE
     icon: plane
     summary: |
-      Grant to support travel to present my workshop paper at AAAI 2025.
+      Grant to support travel to present my workshop paper at the AAAI 2025 conference.
 
   - title: Redaction Scholarship
     date: '2024-12-01'
@@ -271,7 +271,7 @@ awards:
     awarder: Mila Quebec AI Institute
     icon: plane
     summary: |
-      Grants to support travel to present research papers at Canadian AI 2024.
+      Grants to support travel to present research papers at the Canadian AI 2024 conference.
   
   - title: International Fellowship (Winter)
     date: '2024-04-01'
@@ -299,7 +299,7 @@ awards:
     awarder: UdeM
     icon: university
     summary: |
-      Tuition exemption scholarship for graduate studies at Université de Montréal.
+      Tuition exemption scholarship (worth CAD $12,000) for graduate studies at Université de Montréal.
     
   - title: Colfuturo Scholarship
     date: '2023-09-01'
