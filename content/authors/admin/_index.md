@@ -314,7 +314,6 @@ awards:
     icon: germany
     summary: |
       Competitive scholarship (worth CAD $40,000) awarded to only 50 engineering students in Colombia annually. The scholarship covered all expenses including travel, accommodation, and living costs for:
-:
       - A 1-year German language course in Colombia
       - A 2-month intensive German course (B2) in Germany
       - An academic semester in Germany (done at Otto-von-Guericke-Universität Magdeburg, achieved 90% GPA)
